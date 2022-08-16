@@ -5,7 +5,7 @@
 
 ## NGINX 설치
 ```
-sudo apt update
+sudo apt-get update
 sudo apt-get install nginx
 ```
 ## NGINX 기동확인
