@@ -1,6 +1,4 @@
-# 2.Setting Up NGINX with Node.js
-
-<br>
+# 2. Setting Up NGINX with Node.js
 
 ## Node.js & npm 설치
 
