@@ -15,7 +15,7 @@ systemctl status nginx
 
 ## 브라우저에서 확인
 ```
-http://[외부ip] 
+[외부ip]
 ```
 ## +
 https를 사용하여 연결시 ```Connection Refused```오류를 반환된다.
